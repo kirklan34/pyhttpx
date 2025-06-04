@@ -21,7 +21,7 @@ A lightweight, fast, and concurrent URL status checker built in pure Python — 
 From source:
 
 ```bash
-git clone https://github.com/yourusername/pyhttpx.git
+git clone https://github.com/kirklan34/pyhttpx.git
 cd pyhttpx
 python pyhttpx.py -l urls.txt
 ```
