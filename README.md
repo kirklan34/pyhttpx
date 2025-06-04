@@ -29,7 +29,7 @@ Or from source:
 ```bash
 git clone https://github.com/yourusername/pyhttpx.git
 cd pyhttpx
-pip install .
+python pyhttpx.py -l urls.txt
 ```
 
 ---
@@ -98,4 +98,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 `pyhttpx` was built as a minimal, pip-installable alternative to tools like `httpx`, ideal for scripting and cross-platform usage.
 
-Created with ❤️ by [YourName](https://github.com/yourusername)
+Created with ❤️ by kirklan34(https://github.com/kirklan34)
