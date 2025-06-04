@@ -11,20 +11,14 @@ A lightweight, fast, and concurrent URL status checker built in pure Python — 
 - ✅ Pure Python 3 — no compilation required
 - 🌐 Supports HTTP and HTTPS
 - ⚡ Fast concurrent requests (via `ThreadPoolExecutor`)
-- 📦 Easy to install via `pip`
 - 🧠 Useful for recon, bug bounty, and OSINT tasks
 
 ---
 
 ## 📥 Installation
 
-Install directly from PyPI:
 
-```bash
-pip install pyhttpx
-```
-
-Or from source:
+From source:
 
 ```bash
 git clone https://github.com/yourusername/pyhttpx.git
